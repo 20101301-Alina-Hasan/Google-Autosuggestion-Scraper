@@ -4,6 +4,6 @@
 
 **Language:** Python
 
-**Libraries**
+**Libraries Utilized**
 * Selenium
 * openpyxl
