@@ -1,4 +1,4 @@
-﻿# Python Autosuggestion Scraper
+﻿# Google Autosuggestion Scraper
 ### 4Beats INTERN TA DevOps | Q1 Solution
 **Name:** Alina Hasan
 
