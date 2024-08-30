@@ -1,5 +1,5 @@
 ﻿# Python Autosuggestion Scraper
-### 4Beats INTERN TA DevOps | Q1
+### 4Beats INTERN DevOps | Q1 Solution
 **Name:** Alina Hasan
 
 **Language:** Python
