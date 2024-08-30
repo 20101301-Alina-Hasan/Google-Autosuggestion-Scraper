@@ -13,3 +13,7 @@
 **Driver** geckodriver
 
 *Program assumes Firefox is installed and geckodriver is in the same directory as the jupyter file.* 
+
+*Firefox installer located in the 'Setup' folder*
+
+*A Sample Output is provided in the 'Sample Output' folder*
