@@ -1,5 +1,5 @@
 ﻿# Python Autosuggestion Scraper
-### 4Beats INTERN TA DevOps | Assignment 01
+### 4Beats INTERN TA DevOps | Q1
 **Name:** Alina Hasan
 
 **Language:** Python
