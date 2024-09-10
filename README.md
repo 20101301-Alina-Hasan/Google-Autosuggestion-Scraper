@@ -35,8 +35,10 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 
        *A [Firefox Installer](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/3908fbad28833fc1951bcd7931e20678b6bf37fa/Setup/Firefox%20Installer.exe) is available in the 'Setup' folder of this repository.*
 
-4. **Jupyter Notebook**:
-     - Open the provided Jupyter Notebook file in a Jupyter environment to run the script. The notebook demonstrates the functionality and provides instructions for use.
+4. **Run Script**:
+     **Either**, open the provided Jupyter Notebook file in a Jupyter environment to run the script. The notebook demonstrates the functionality and provides instructions for use.
+
+     **Or**, run the Python file in a Python environment.
 
 ## Sample 
 
