@@ -1,18 +1,33 @@
-﻿# Google Autosuggestion Scraper
-### 4Beats INTERN TA & DevOps | Q1 Solution
-**Name:** Alina Hasan
+# Google Autosuggestion Scraper
 
-**Language:** Python
+## Overview
+This repository contains a Python script for scraping Google Autosuggestions. It was developed as part of the 4Beats INTERN TA & DevOps Q1 Solution. 
 
-**Libraries Utilized**
-* Selenium
-* openpyxl
+**Author:** Alina Hasan
 
-**Browser:** Firefox
+## Prerequisites
 
-**Driver** geckodriver
+- **Python**: Ensure you have Python installed on your system.
+- **Firefox Browser**: The script uses Firefox as the browser for automation.
+- **Geckodriver**: The script requires `geckodriver` to interface with Firefox. Ensure `geckodriver` is located in the same directory as the script or is in your system PATH.
 
-*Program assumes Firefox is installed and geckodriver is in the same directory as the jupyter file.* 
-*The Firefox installer is located in the 'Setup' folder*
+## Libraries
+
+- **Selenium**: For web automation and scraping.
+- **openpyxl**: For handling Excel files.
+
+## Setup
+
+1. **Install Dependencies**: Install the required Python libraries using pip:
+   ```bash
+   pip install selenium openpyxl
+   ```
+
+2. **Download Geckodriver**:
+  - Download the appropriate version of geckodriver for your operating system from [Geckodriver Releases](https://sourceforge.net/projects/geckodriver.mirror/).
+  - Place geckodriver in the same directory as the script or add it to your system PATH.
+
+3. **Firefox Installation**:
+  - Ensure Firefox is installed on your system. *A Firefox installer is located in the 'Setup' folder of this repository.*
 
 *A Sample Output is provided in the 'Sample Output' folder*
