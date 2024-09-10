@@ -39,7 +39,7 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 
      **Either**, open the provided [Jupyter Notebook file](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/ae53400528ec1f394e6f16f2f8adc0c391182aba/4BeatsQ1_Solution.ipynb) in a Jupyter environment to run the script. The notebook demonstrates the functionality and provides instructions for use.
 
-     **Or**, run the [Python file]() in a Python environment.
+     **Or**, run the [Python file](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/d5b3c6cfd974fd788c054f2f4194cecb01489221/4BeatsQ1_Solution.py) in a Python environment.
 
 ## Sample 
 
