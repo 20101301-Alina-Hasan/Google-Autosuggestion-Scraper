@@ -37,4 +37,6 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 4. **Jupyter Notebook**:
      - Open the provided Jupyter Notebook file in a Jupyter environment to run the script. The notebook demonstrates the functionality and provides instructions for use.
 
-*A Sample Output is provided in the 'Sample Output' folder*
+## Setup
+
+A [Sample Output]() is provided in the 'Sample Output' folder.
