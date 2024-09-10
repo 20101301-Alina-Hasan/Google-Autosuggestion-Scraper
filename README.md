@@ -27,13 +27,13 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 2. **Download Geckodriver**:
      - Download the appropriate version of geckodriver for your operating system from [Geckodriver Releases](https://sourceforge.net/projects/geckodriver.mirror/).
 
-       *A [Gecko release](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/a66e204726958993695030c32013ed7546a11fe9/Setup/geckodriver-v0.35.0-win32.zip) is available in the 'Setup' folder of this repository.*
+       *A [Gecko release](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/tree/0319d4374cc121e51ffea0b689ef56ae293f4a92/Setup) is available in the 'Setup' folder of this repository.*
      - Place geckodriver in the same directory as the script or add it to your system PATH.
 
 3. **Firefox Installation**:
      - Ensure Firefox is installed on your system.
 
-       *A [Firefox Installer](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/3908fbad28833fc1951bcd7931e20678b6bf37fa/Setup/Firefox%20Installer.exe) is available in the 'Setup' folder of this repository.*
+       *A [Firefox Installer](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/tree/0319d4374cc121e51ffea0b689ef56ae293f4a92/Setup) is available in the 'Setup' folder of this repository.*
 
 4. **Run Script**:
 
