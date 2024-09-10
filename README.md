@@ -40,4 +40,4 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 
 ## Sample 
 
-A [Sample Output](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/131cd0b2fee6d5ab10569d1cb81dad33a8116a42/Sample%20Output/Sample_Output.xlsx) is provided in the 'Sample Output' folder.
+*A [Sample Output](https://github.com/20101301-Alina-Hasan/Google-Autosuggestion-Scraper/blob/131cd0b2fee6d5ab10569d1cb81dad33a8116a42/Sample%20Output/Sample_Output.xlsx) is provided in the 'Sample Output' folder.*
