@@ -15,12 +15,13 @@ This repository contains a Python script for scraping Google Autosuggestions. It
 
 - **Selenium**: For web automation and scraping.
 - **openpyxl**: For handling Excel files.
+- **Pandas**: For handling tabular data and performing operations on Excel sheets.
 
 ## Setup
 
 1. **Install Dependencies**: Install the required Python libraries using pip:
    ```bash
-   pip install selenium openpyxl
+   pip install selenium openpyxl pandas
    ```
    
 2. **Download Geckodriver**:
