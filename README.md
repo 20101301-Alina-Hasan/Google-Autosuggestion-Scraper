@@ -1,7 +1,7 @@
-# Google Autosuggestion Scraper | Q1 Solution
+# Google Autosuggestion Scraper 
 
 ## Overview
-This repository contains a Python script for scraping Google Autosuggestions. It was developed as part of the **4Beats INTERN TA & DevOps** screening. 
+This repository contains a Python script for scraping Google Autosuggestions. 
 
 **Author:** Alina Hasan
 
